@@ -27,7 +27,7 @@ A full-stack Django application designed to digitise care home operations includ
 ## 💼 Background
 
 Before transitioning into tech, I worked in healthcare as a Senior Carer.  
-This gives me a strong understanding of real operational challenges—something I now translate into software solutions.
+This gives me a strong understanding of real operational challenges, something I now translate into software solutions.
 
 ---
 
