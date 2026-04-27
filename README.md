@@ -27,10 +27,9 @@ Senior Carer:
 Username:Bliss
 Password:Success@247
 
-Carer:
-Username:testingproject
-Password:Success@247
----
+carer:testingproject
+password:Success@247
+
 
 ## 💼 Background
 
