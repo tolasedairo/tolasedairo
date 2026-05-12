@@ -22,14 +22,6 @@ A full-stack Django application designed to digitise care home operations includ
 🔗 Live: https://carehome-c3a4ac54b776.herokuapp.com  
 🔗 Code: https://github.com/tolasedairo/carehome
 
-## Demo Access
-Senior Carer:
-Username:Bliss
-Password:Success@247
-
-carer:testingproject
-password:Success@247
-
 
 ## 💼 Background
 
